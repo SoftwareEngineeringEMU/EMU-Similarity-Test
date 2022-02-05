@@ -138,7 +138,7 @@ Hi """ + str(data['Username'][person2].split(".")[0]) + str(
             str(printname) + "\nThe total similarity points possible are " + str(max_points) + ". \nThe average score between two people was " + \
             str(round(average,1)) + "\n\nIf you would like to see which similarities you share with these people, please go to this link:\n\
             https://forms.gle/MPL5NWp6EgJ8DG5h9" + \
-            "\n\nWarmly,\nThe Similarity Test Committee\n"#"(Isaac Andreas, Daniel Showalter, Asha Beck, Hannah Leaman"
+            "\n\nWarmly,\nThe Similarity Test Committee\n"
 
 
         try:
